@@ -1,0 +1,11 @@
+tid,items
+1,"Bread,Milk"
+2,"Bread,Beer,Milk"
+3,"Coke,Milk,Beer,Bread"
+4,"Eggs,Milk,Bread"
+5,"Bread,Beer,Eggs"
+6,"Eggs,Coke"
+7,"Bread,Milk,Beer"
+8,"Beer,Bread"
+9,"Bread,Coke"
+10,"Milk,Beer,Coke"
