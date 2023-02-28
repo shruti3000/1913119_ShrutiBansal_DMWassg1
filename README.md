@@ -1,5 +1,4 @@
 # 1913119_ShrutiBansal_DMWassg1
-1913119_ShrutiBansal_DMWassg1
 
 ## Simple Implementation of Apriori Algorithm with **Minimum Support of 60%** on a dataset having 10 transactions
 
